@@ -26,6 +26,7 @@ The [arrays.js](assignments/arrays.js) assignment takes us through a large data 
 * You are not permitted to use map, reduce, or filter to solve these problems.  Only use a basic for loop.
 * Complete each challenge presented before moving on to stretch.
 
+
 ### Stretch
 
 * [ ] Arrow Function Syntax - [Check out this awesome guide for ES6 arrow syntax](https://medium.freecodecamp.org/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26). You will see more and more arrow functions as you progress deeper into JavaScript. Use the [stretch-function-conversion.js](assignments/stretch-function-conversion.js) file as a helper challenge to showcase some of the differences between ES5 and ES6 syntax.  
